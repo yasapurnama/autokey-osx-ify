@@ -18,6 +18,7 @@ Verify that the configuration directory exists:
 
 ```bash
 stat ~/.config/autokey;
+```
 
 ## Usage
 1. Navigate to your AutoKey configuration directory
