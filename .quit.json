@@ -1,5 +1,5 @@
 {
-    "usageCount": 2, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "quit", 
@@ -21,11 +21,10 @@
         3
     ], 
     "showInTrayMenu": false, 
-    "matchCase": false, 
     "filter": {
         "regex": null, 
         "isRecursive": false
     }, 
-    "type": "phrase", 
-    "sendMode": "kb"
+    "type": "script", 
+    "store": {}
 }

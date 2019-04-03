@@ -1,8 +1,8 @@
 {
-    "usageCount": 0, 
+    "usageCount": 11, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "copy", 
+    "description": "terminal-clear (iTerm2)", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,7 +12,7 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "c", 
+        "hotKey": "k", 
         "modifiers": [
             "<super>"
         ]
@@ -21,10 +21,11 @@
         3
     ], 
     "showInTrayMenu": false, 
+    "matchCase": false, 
     "filter": {
         "regex": null, 
         "isRecursive": false
     }, 
-    "type": "script", 
-    "store": {}
+    "type": "phrase", 
+    "sendMode": "kb"
 }
