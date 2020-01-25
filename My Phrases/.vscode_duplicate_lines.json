@@ -1,0 +1,31 @@
+{
+    "usageCount": 8, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "vscode_duplicate_lines", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "<down>", 
+        "modifiers": [
+            "<shift>", 
+            "<super>"
+        ]
+    }, 
+    "modes": [
+        3
+    ], 
+    "showInTrayMenu": false, 
+    "filter": {
+        "regex": null, 
+        "isRecursive": false
+    }, 
+    "type": "script", 
+    "store": {}
+}
