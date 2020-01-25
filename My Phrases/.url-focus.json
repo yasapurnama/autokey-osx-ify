@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "l", 
         "modifiers": [
-            "<super>"
+            "<alt>"
         ]
     }, 
     "modes": [

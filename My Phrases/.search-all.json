@@ -14,8 +14,8 @@
     "hotkey": {
         "hotKey": "f", 
         "modifiers": [
-            "<shift>", 
-            "<super>"
+            "<alt>", 
+            "<shift>"
         ]
     }, 
     "modes": [

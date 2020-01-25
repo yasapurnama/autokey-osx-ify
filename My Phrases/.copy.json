@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "c", 
         "modifiers": [
-            "<super>"
+            "<alt>"
         ]
     }, 
     "modes": [

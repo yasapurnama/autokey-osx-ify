@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "p", 
         "modifiers": [
-            "<super>"
+            "<alt>"
         ]
     }, 
     "modes": [

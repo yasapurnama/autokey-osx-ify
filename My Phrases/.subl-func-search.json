@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "r", 
         "modifiers": [
-            "<super>"
+            "<alt>"
         ]
     }, 
     "modes": [

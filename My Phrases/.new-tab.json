@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "t", 
         "modifiers": [
-            "<super>"
+            "<alt>"
         ]
     }, 
     "modes": [
