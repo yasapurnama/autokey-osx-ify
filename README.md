@@ -2,7 +2,7 @@
 This repository contains AutoKey configuration data for Mac OS X keybindings.
 
 Note:   
-  - Switch Alt and Super key behavior
+  - Switch Alt, Super and CTRL key behavior
   - Windows minimize, Open home folder, Alt-Tab and Desktop switching set through system shortcuts
 
 
@@ -31,7 +31,7 @@ This can be achieved using the following shell commands:
 set -x;
 cd ~/.config/autokey \
   && mv data data.backup.$(date +'%Y%m%d%H%M%S') \
-  && git clone git@github.com:glennr/autokey-osx-ify.git data;
+  && git clone git@github.com:yasapurnama/autokey-osx-ify.git data;
 ```
 
 Then start AutoKey and you should have the shortcuts applied.
@@ -44,5 +44,6 @@ Enjoy!
 
 ## Credits
 
+- [glennr](https://github.com/glennr) this stuff forked from
 - [viktorot](https://github.com/viktorot) and [nikarul](https://github.com/nikarul) for the base configuration
 - [zephinzer](https://github.com/zephinzer/config-ubuntu-autokey) for the quick installation 
