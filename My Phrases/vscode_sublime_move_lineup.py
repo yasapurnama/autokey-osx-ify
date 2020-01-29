@@ -2,7 +2,8 @@ import re
 
 window = window.get_active_class()
 is_vscode = re.search('code', window, re.IGNORECASE)
+is_sublime = re.search('sublime', window, re.IGNORECASE)
 
-if is_vscode:
-  keys = "<ctrl>+<shift>+<alt>+<down>"
+if is_vscode or is_sublime:
+  keys = "<alt>+<up>"
   keyboard.send_keys(keys)

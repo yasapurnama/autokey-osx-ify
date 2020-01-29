@@ -1,8 +1,8 @@
 {
-    "usageCount": 8, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "vscode_duplicate_lines", 
+    "description": "chrome_reload_clearcc", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,10 +12,10 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "<down>", 
+        "hotKey": "r", 
         "modifiers": [
-            "<shift>", 
-            "<super>"
+            "<alt>", 
+            "<shift>"
         ]
     }, 
     "modes": [

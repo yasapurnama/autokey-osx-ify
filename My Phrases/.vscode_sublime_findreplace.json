@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "vscode_block_comments", 
+    "description": "vscode_sublime_findreplace", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "a", 
+        "hotKey": "f", 
         "modifiers": [
-            "<shift>", 
+            "<alt>", 
             "<super>"
         ]
     }, 

@@ -1,8 +1,8 @@
 {
-    "usageCount": 2, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "chrome_reload_clearcc", 
+    "description": "vscode_sublime_move_linedown", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,10 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "r", 
+        "hotKey": "<down>", 
         "modifiers": [
-            "<alt>", 
-            "<shift>"
+            "<super>"
         ]
     }, 
     "modes": [

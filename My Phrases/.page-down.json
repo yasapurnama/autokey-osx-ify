@@ -1,5 +1,5 @@
 {
-    "usageCount": 30, 
+    "usageCount": 73, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "page-down", 
@@ -17,9 +17,7 @@
             "<alt>"
         ]
     }, 
-    "modes": [
-        3
-    ], 
+    "modes": [], 
     "showInTrayMenu": false, 
     "matchCase": false, 
     "filter": {
