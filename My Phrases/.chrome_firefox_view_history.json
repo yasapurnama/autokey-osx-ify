@@ -1,8 +1,8 @@
 {
-    "usageCount": 0, 
+    "usageCount": 1, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "chrome_view_history", 
+    "description": "chrome_firefox_view_history", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 

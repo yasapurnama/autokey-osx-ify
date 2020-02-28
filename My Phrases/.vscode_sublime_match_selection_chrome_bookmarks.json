@@ -1,8 +1,8 @@
 {
-    "usageCount": 0, 
+    "usageCount": 15, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "chrome_view_source", 
+    "description": "vscode_sublime_match_selection_chrome_bookmarks", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,10 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "u", 
+        "hotKey": "d", 
         "modifiers": [
-            "<alt>", 
-            "<super>"
+            "<alt>"
         ]
     }, 
     "modes": [

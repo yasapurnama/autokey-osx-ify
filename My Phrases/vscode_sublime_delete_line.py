@@ -5,5 +5,5 @@ is_vscode = re.search('code', window, re.IGNORECASE)
 is_sublime = re.search('sublime', window, re.IGNORECASE)
 
 if is_vscode or is_sublime:
-  keys = "<ctrl>+d"
+  keys = "<ctrl>+<shift>+k"
   keyboard.send_keys(keys)
